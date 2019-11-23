@@ -1,0 +1,7 @@
+.page-nav {
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  border-bottom: aquamarine;
+  max-width: 1030px;
+}
