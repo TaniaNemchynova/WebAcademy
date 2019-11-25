@@ -1,1 +1,1 @@
-import './antarctica.scss';
+import "./antarctica.css";
