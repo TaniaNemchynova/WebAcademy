@@ -1,0 +1,13 @@
+.section_compare-background {
+  max-width: 1350px;
+  height: 800px;
+  margin: 20px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(../assets/images/howtoshoot_large_2x.jpg);
+  background-size: 100%;
+}
+.text-block-white > h1 {
+  color: white;
+}

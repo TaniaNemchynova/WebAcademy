@@ -1,0 +1,39 @@
+.text-block-column {
+  position: absolute;
+  top: 80px;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+}
+.text-block-center {
+  text-align: center;
+}
+h1 {
+  font-size: 3.5rem;
+}
+
+h2 {
+  font-size: 2.5rem;
+}
+h3 {
+  font-size: 2rem;
+}
+.text-block-description > span {
+  padding: 0 1rem;
+}
+.text-block-description {
+  margin-top: 15px;
+  color: grey;
+}
+
+.text-block-link {
+  padding-top: 0.75rem;
+  color: #0070c9;
+  font-size: 1.3125rem;
+  position: relative;
+  text-decoration: none;
+  display: block;
+}
+.text-block-content {
+  margin: 20px;
+}

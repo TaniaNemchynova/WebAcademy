@@ -1,9 +1,9 @@
 .chapter-nav {
-  display: flex;
-  justify-content: center;
   background-color: #f6f6f6;
 }
-
+.width-chapter {
+  max-width: 1024px;
+}
 .chapter-link {
   height: 86px;
   width: 60px;
@@ -21,7 +21,7 @@
   text-align: center;
 }
 
-.chapter-icon{
+.chapter-icon {
   height: 55%;
   display: block;
 }
@@ -29,13 +29,13 @@
 .chapter-title {
   padding-top: 5px;
   font-size: 8px;
-  color: rgba(0,0,0,0.8);
+  color: rgba(0, 0, 0, 0.8);
 }
 
 .chapter-link path {
-  fill:#333333;
+  fill: #333333;
 }
 
-.chapter-link:hover path{
+.chapter-link:hover path {
   fill: red;
 }

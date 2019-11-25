@@ -1,0 +1,22 @@
+.section_big-step {
+  margin: 20px auto;
+  max-width: 1350px;
+  height: 700px;
+  background-color: #f6f6f6;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  background-image: url(../assets/images/ios_large_2x.jpg);
+  background-position: bottom 50% right -132px;
+  background-size: 60%;
+  background-repeat: no-repeat;
+}
+.text-big-step {
+  width: 675px;
+}
+.section_big-step-img: {
+  width: 50%;
+  position: absolute;
+  transform: translateY(-50%);
+  right: -5%;
+}

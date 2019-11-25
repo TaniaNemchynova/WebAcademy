@@ -1,0 +1,21 @@
+.section-accessories-container {
+  height: 550px;
+  display: flex;
+  justify-content: center;
+  margin: 20px auto;
+  max-width: 1350px;
+}
+.airpods {
+  margin-right: 10px;
+  background-image: url(../assets/images/airpods_large_2x.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: 0 220px;
+}
+.accessories {
+  margin-left: 10px;
+  background-image: url(../assets/images/accessories_large_2x.jpg);
+  background-size: 100%;
+  background-position: 0 130px;
+  background-repeat: no-repeat;
+}

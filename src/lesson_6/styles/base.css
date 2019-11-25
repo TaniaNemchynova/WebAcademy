@@ -6,7 +6,7 @@ html {
   font-size: 15px;
   font-family: sans-serif;
   font-weight: 500;
-  color: rgb(41, 41, 41);
+  color: rgb(22, 22, 22);
 }
 
 body {
@@ -47,16 +47,26 @@ h6 {
   font-weight: 700;
 }
 
+p {
+  font-size: 1.31rem;
+}
+
 button,
 input,
 textarea {
   font-size: 1rem;
   outline: none;
 }
-
 .page-container {
-  max-width: 1024px;
   width: 100%;
   display: flex;
   justify-content: center;
+}
+.airpods,
+.accessories,
+.pay,
+.icloud {
+  padding-top: 60px;
+  width: 50%;
+  background-color: #f6f6f6;
 }

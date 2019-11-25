@@ -1,4 +1,12 @@
-@import './styles/base.css';
-@import './styles/page-nav.css';
-@import './styles/chapter-nav.css';
-@import './styles/main-section.css';
+@import "./styles/base.css";
+@import "./styles/page-nav.css";
+@import "./styles/chapter-nav.css";
+@import "./styles/sections-content.css";
+@import "./styles/main-section.css";
+@import "./styles/section-iphone-8.css";
+@import "./styles/section-compare.css";
+@import "./styles/section_big-step.css";
+@import "./styles/section-accessories.css";
+@import "./styles/section_compare-background.css";
+@import "./styles/section_pay-icloud.css";
+@import "./styles/page-footer.css";

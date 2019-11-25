@@ -1,0 +1,26 @@
+.section-compare {
+  margin: 20px auto;
+  max-width: 1350px;
+  height: 497px;
+  background-color: #f6f6f6;
+  display: flex;
+  align-items: flex-end;
+}
+.container_section-compare {
+  flex-direction: row-reverse;
+  justify-content: end;
+  align-items: center;
+}
+
+.text-block_compare {
+  width: 50%;
+  text-align: start;
+  padding-left: 100px;
+}
+.compare-img {
+  width: 50%;
+  padding-left: 40px;
+}
+.section-compare-img {
+  width: 95%;
+}

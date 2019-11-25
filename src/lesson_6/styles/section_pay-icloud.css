@@ -1,0 +1,21 @@
+.section_pay-icloud-container {
+  height: 800px;
+  display: flex;
+  justify-content: center;
+  margin: 20px auto;
+  max-width: 1350px;
+}
+.pay {
+  margin-right: 10px;
+  background-image: url(../assets/images/apple_pay_large_2x.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+.icloud {
+  margin-left: 10px;
+  background-image: url(../assets/images/icloud_large_2x.jpg);
+  background-size: 95%;
+  background-repeat: no-repeat;
+  background-position: bottom 30px right 20px;
+}
